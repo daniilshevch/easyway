@@ -1,0 +1,13 @@
+﻿  ConsoleApplication16.cpp
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(11,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(361,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(367,30): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(371,48): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(515,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(569,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(699,41): warning C4244: 'initializing': conversion from '__int64' to 'long double', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(705,65): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error)\ConsoleApplication16\ConsoleApplication16.cpp(742,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  transport.cpp
+  Generating Code...
+  ConsoleApplication16.vcxproj -> D:\Programming\OOP\C++\Version8(small error)\x64\Debug\ConsoleApplication16.exe

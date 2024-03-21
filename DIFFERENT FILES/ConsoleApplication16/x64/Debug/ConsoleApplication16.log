@@ -1,0 +1,1213 @@
+﻿  BogdanT601.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(27,58): error C2572: 'BogdanT601::BogdanT601': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(29,5): message : see declaration of 'BogdanT601::BogdanT601'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(27,79): error C2572: 'BogdanT601::BogdanT601': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(29,5): message : see declaration of 'BogdanT601::BogdanT601'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(27,86): error C2614: 'BogdanT601': illegal member initialization: 'Trolleybus' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(29,9): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(33,16): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.cpp(37,16): error C2065: 'index': undeclared identifier
+  ConsoleApplication16.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(63,33): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(67,54): error C2039: 'get_speed': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(68,48): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(73,17): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(73,48): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(73,104): error C2039: 'get_speed': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(74,21): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(77,38): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(80,117): error C2039: 'get_start_point': is not a member of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(80,19): error C2660: 'Trolleybus::sent_to_route': function does not take 1 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(41,10): message : see declaration of 'Trolleybus::sent_to_route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(80,19): message : while trying to match the argument list '(Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(82,21): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(108,29): error C2039: 'station_points': is not a member of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(108,53): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(108,68): error C2039: 'station_points': is not a member of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(110,41): error C2039: 'get_coordinate': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(132,29): error C2039: 'front': is not a member of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(133,29): error C2039: 'reverse': is not a member of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(138,34): error C2039: 'front': is not a member of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(138,25): error C2143: syntax error: missing ';' before ':'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(138,65): error C2143: syntax error: missing ';' before ')'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(143,20): error C2039: 'front': is not a member of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(148,34): error C2039: 'reverse': is not a member of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(148,25): error C2143: syntax error: missing ';' before ':'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(148,67): error C2143: syntax error: missing ';' before ')'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(153,20): error C2039: 'reverse': is not a member of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(214,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(214,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(215,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(215,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(216,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(216,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(217,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(217,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(218,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(218,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(219,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(219,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(220,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(220,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(221,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(221,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(222,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(222,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(223,68): error C2661: 'Full_Trolleybus_Route::Full_Trolleybus_Route': no overloaded function takes 2 arguments
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(223,68): message : while trying to match the argument list '(Trolleybus_Route *, Trolleybus_Route *)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(258,12): error C2664: 'void Trolleybus_Route::add_stops(unknown-type)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): message : see declaration of 'Trolleybus_Route::add_stops'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(258,12): message : while trying to match the argument list '(std::vector<Station *,std::allocator<Station *>>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(259,12): error C2664: 'void Trolleybus_Route::organize_stops(unknown-type,std::vector<int,std::allocator<int>>)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,10): message : see declaration of 'Trolleybus_Route::organize_stops'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(259,12): message : while trying to match the argument list '(std::vector<Station *,std::allocator<Station *>>, std::vector<int,std::allocator<int>>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(266,19): error C2664: 'void Trolleybus_Route::add_stops(unknown-type)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): message : see declaration of 'Trolleybus_Route::add_stops'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(266,19): message : while trying to match the argument list '(std::vector<Station *,std::allocator<Station *>>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(267,19): error C2664: 'void Trolleybus_Route::organize_stops(unknown-type,std::vector<int,std::allocator<int>>)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,10): message : see declaration of 'Trolleybus_Route::organize_stops'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(267,19): message : while trying to match the argument list '(std::vector<Station *,std::allocator<Station *>>, std::vector<int,std::allocator<int>>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(286,12): error C2664: 'void Trolleybus_Route::add_stops(unknown-type)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): message : see declaration of 'Trolleybus_Route::add_stops'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(286,12): message : while trying to match the argument list '(std::vector<Station *,std::allocator<Station *>>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(288,19): error C2664: 'void Trolleybus_Route::add_stops(unknown-type)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): message : see declaration of 'Trolleybus_Route::add_stops'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(288,19): message : while trying to match the argument list '(std::vector<Station *,std::allocator<Station *>>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(315,12): error C2664: 'void Trolleybus_Route::add_stops(unknown-type)': cannot convert argument 1 from 'std::vector<Station *,std::allocator<Station *>>' to 'unknown-type'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ConsoleApplication16.cpp(315,30): fatal  error C1003: error count exceeds 100; stopping compilation
+  ElectronT19101.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.cpp(25,66): error C2572: 'ElectronT19101::ElectronT19101': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(30,5): message : see declaration of 'ElectronT19101::ElectronT19101'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.cpp(25,87): error C2572: 'ElectronT19101::ElectronT19101': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(30,5): message : see declaration of 'ElectronT19101::ElectronT19101'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.cpp(25,94): error C2614: 'ElectronT19101': illegal member initialization: 'Trolleybus' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.cpp(27,9): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.cpp(31,16): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.cpp(35,16): error C2065: 'index': undeclared identifier
+  ElectronT19102.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.cpp(24,66): error C2572: 'ElectronT19102::ElectronT19102': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(29,5): message : see declaration of 'ElectronT19102::ElectronT19102'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.cpp(24,87): error C2572: 'ElectronT19102::ElectronT19102': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(29,5): message : see declaration of 'ElectronT19102::ElectronT19102'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.cpp(24,94): error C2614: 'ElectronT19102': illegal member initialization: 'Trolleybus' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.cpp(26,9): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.cpp(30,16): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.cpp(34,16): error C2065: 'index': undeclared identifier
+  Full_Trolleybus_Route.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(23,28): error C2511: 'Full_Trolleybus_Route::Full_Trolleybus_Route(Trolleybus_Route *,Trolleybus_Route *)': overloaded member function not found in 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(27,7): message : see declaration of 'Full_Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(25,9): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(26,17): error C2659: '=': function as left operand
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(33,25): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(33,49): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(33,78): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(35,9): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(39,25): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(45,59): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(48,29): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(50,21): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(51,33): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(53,26): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(53,67): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(53,106): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(53,21): error C2672: 'std::find': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5846,31): message : could be '_InIt std::find(_InIt,const _InIt,const _Ty &)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(53,21): message : '_InIt std::find(_InIt,const _InIt,const _Ty &)': expects 3 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(53,154): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(55,29): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(68,21): error C2672: 'std::find': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5846,31): message : could be '_InIt std::find(_InIt,const _InIt,const _Ty &)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(68,21): message : '_InIt std::find(_InIt,const _InIt,const _Ty &)': expects 3 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(78,59): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(81,29): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(83,21): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(84,33): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(86,26): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(86,67): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(86,106): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(86,21): error C2672: 'std::find': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5846,31): message : could be '_InIt std::find(_InIt,const _InIt,const _Ty &)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(86,21): message : '_InIt std::find(_InIt,const _InIt,const _Ty &)': expects 3 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(86,154): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(88,43): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(91,21): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(102,21): error C2672: 'std::find': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5846,31): message : could be '_InIt std::find(_InIt,const _InIt,const _Ty &)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(102,21): message : '_InIt std::find(_InIt,const _InIt,const _Ty &)': expects 3 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(112,59): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(119,29): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(121,24): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(122,21): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(123,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(129,33): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(131,26): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(131,67): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(131,106): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(131,21): error C2672: 'std::find': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5846,31): message : could be '_InIt std::find(_InIt,const _InIt,const _Ty &)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(131,21): message : '_InIt std::find(_InIt,const _InIt,const _Ty &)': expects 3 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(131,154): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(133,43): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(141,17): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(145,22): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(147,44): error C2065: 'front': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.cpp(147,49): fatal  error C1003: error count exceeds 100; stopping compilation
+  LAZE183.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.cpp(27,52): error C2572: 'LAZE183::LAZE183': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(29,5): message : see declaration of 'LAZE183::LAZE183'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.cpp(27,73): error C2572: 'LAZE183::LAZE183': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(29,5): message : see declaration of 'LAZE183::LAZE183'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.cpp(29,9): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.cpp(33,16): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.cpp(37,16): error C2065: 'index': undeclared identifier
+  Route.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+  Skoda14Tr.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(26,56): error C2572: 'Skoda14Tr::Skoda14Tr': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(29,5): message : see declaration of 'Skoda14Tr::Skoda14Tr'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(26,77): error C2572: 'Skoda14Tr::Skoda14Tr': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(29,5): message : see declaration of 'Skoda14Tr::Skoda14Tr'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(26,84): error C2614: 'Skoda14Tr': illegal member initialization: 'Trolleybus' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(28,9): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(32,16): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.cpp(36,16): error C2065: 'index': undeclared identifier
+  Station.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.cpp(28,53): error C2572: 'Station::Station': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.h(42,5): message : see declaration of 'Station::Station'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.cpp(28,72): error C2572: 'Station::Station': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.h(42,5): message : see declaration of 'Station::Station'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.cpp(28,92): error C2572: 'Station::Station': redefinition of default argument: parameter 3
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.h(42,5): message : see declaration of 'Station::Station'
+  Tram.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+  Transport.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Transport.cpp(25,56): error C2572: 'Transport::Transport': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Transport.h(36,5): message : see declaration of 'Transport::Transport'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Transport.cpp(25,77): error C2572: 'Transport::Transport': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Transport.h(36,5): message : see declaration of 'Transport::Transport'
+  Trolleybus.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(29,58): error C2572: 'Trolleybus::Trolleybus': redefinition of default argument: parameter 1
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(36,5): message : see declaration of 'Trolleybus::Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(29,79): error C2572: 'Trolleybus::Trolleybus': redefinition of default argument: parameter 2
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(36,5): message : see declaration of 'Trolleybus::Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(29,86): error C2614: 'Trolleybus': illegal member initialization: 'Transport' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(35,16): error C2065: 'model': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(39,16): error C2065: 'index': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(43,16): error C2065: 'year': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(49,81): error C2761: 'void Trolleybus::sent_to_route(Trolleybus_Route *,Station *)': redeclaration of member is not allowed
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(50,112): error C2761: 'void Trolleybus::sent_to_route_additional(Trolleybus_Route *,Station *,int)': redeclaration of member is not allowed
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(52,61): error C2556: 'int advance_in_time(Trolleybus *,int)': overloaded function differs only by return type from 'void advance_in_time(Trolleybus *,int)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.h(25,17): message : see declaration of 'advance_in_time'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(52,9): error C2371: 'advance_in_time': redefinition; different basic types
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Station.h(25,17): message : see declaration of 'advance_in_time'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(70,30): error C2039: 'station_points': is not a member of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(70,54): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(70,66): error C2039: 'station_points': is not a member of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(74,17): error C2065: 'route_coordinate': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.cpp(94,9): error C2065: 'route_coordinate': undeclared identifier
+  Trolleybus_Route.cpp
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Tram.h(3,21): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(32,28): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C2143: syntax error: missing ';' before '*'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(33,30): error C2238: unexpected token(s) preceding ';'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(35,27): error C2061: syntax error: identifier 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,33): error C2504: 'Route': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(28,39): error C2061: syntax error: identifier 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,35): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,43): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,32): error C2065: 'Station': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(79,40): error C2059: syntax error: '>'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(41,18): error C3668: 'Trolleybus_Route::add_stops': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): error C3668: 'Trolleybus_Route::print_route': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(36,33): error C2614: 'Trolleybus_Route': illegal member initialization: 'Route' is not a base or member
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(45,13): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(48,9): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(53,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(55,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,79): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(64,96): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(67,21): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(74,29): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(76,21): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(81,9): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,13): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): error C2672: 'std::make_pair': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(557,67): message : could be 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(84,35): message : 'std::pair<_Unrefwrap_helper<decay<_Ty>::type>::type,_Unrefwrap_helper<decay<_Ty2>::type>::type> std::make_pair(_Ty1 &&,_Ty2 &&) noexcept(<expr>)': expects 2 arguments - 1 provided
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(89,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(96,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(97,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,24): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,48): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(98,54): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(101,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(107,32): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(111,36): error C2027: use of undefined type 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(29,18): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(114,13): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(116,13): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(121,16): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(129,16): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Skoda14Tr.h(26,26): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\BogdanT601.h(26,27): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19102.h(26,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(26,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\ElectronT19101.h(27,31): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(23,7): error C2059: syntax error: 'using namespace'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\LAZE183.h(26,24): error C2504: 'Trolleybus': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,27): error C2504: 'Transport': base class undefined
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(35,18): error C3668: 'Trolleybus::check_info': method with override specifier 'override' did not override any base class methods
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(25,17): error C2374: 'INF': redefinition; multiple initialization
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Full_Trolleybus_Route.h(26,17): message : see declaration of 'INF'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(26,24): error C2511: 'void Trolleybus_Route::add_stops(std::vector<Station *,std::allocator<Station *>>)': overloaded member function not found in 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(30,9): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(31,35): error C2671: 'Trolleybus_Route::add_stops': static member functions do not have 'this' pointers
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(33,5): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(34,9): error C2659: '=': function as left operand
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(36,25): error C2084: function 'void Trolleybus_Route::print_route(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(51,18): message : see previous definition of 'print_route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(38,25): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(40,17): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(43,24): error C2084: function 'void Trolleybus_Route::add_active_trolleybus(Trolleybus)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(58,10): message : see previous definition of 'add_active_trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(47,24): error C2084: function 'void Trolleybus_Route::print_active_trolleybuses(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(62,10): message : see previous definition of 'print_active_trolleybuses'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(49,75): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(49,92): error C2065: 'start': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(52,20): error C2039: 'index': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(56,24): error C2084: function 'void Trolleybus_Route::print_condition(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(71,10): message : see previous definition of 'print_condition'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(59,25): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(61,17): error C2065: 'stations': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(64,24): error C2511: 'void Trolleybus_Route::organize_stops(std::vector<Station *,std::allocator<Station *>>,std::vector<int,std::allocator<int>>)': overloaded member function not found in 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(26,7): message : see declaration of 'Trolleybus_Route'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(66,5): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(69,9): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(72,24): error C2084: function 'void Trolleybus_Route::print_route_modified(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(87,10): message : see previous definition of 'print_route_modified'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(74,20): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(74,44): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(74,50): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(79,24): error C2084: function 'void Trolleybus_Route::evaluate_distances_and_times(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(94,10): message : see previous definition of 'evaluate_distances_and_times'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(81,5): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(82,5): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(83,20): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(83,44): error C3536: 'it': cannot be used before it is initialized
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(83,50): error C2065: 'station_points': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(86,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(92,28): error C3861: 'find_distance': identifier not found
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(96,35): error C2039: 'get_speed': is not a member of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus.h(24,7): message : see declaration of 'Trolleybus'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(99,9): error C2065: 'station_distances': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(101,9): error C2065: 'station_times': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(104,23): error C2084: function 'int Trolleybus_Route::get_number(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(119,9): message : see previous definition of 'get_number'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(106,12): error C2065: 'number': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(108,24): error C2084: function 'void Trolleybus_Route::print_distances(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(123,10): message : see previous definition of 'print_distances'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(112,23): error C2084: function 'int Trolleybus_Route::get_length(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(127,9): message : see previous definition of 'get_length'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(114,12): error C2065: 'length': undeclared identifier
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(116,24): error C2084: function 'void Trolleybus_Route::set_reversed(Trolleybus_Route *)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(131,10): message : see previous definition of 'set_reversed'
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.cpp(120,37): error C2084: function 'Trolleybus_Route *Trolleybus_Route::get_reversed(void)' already has a body
+D:\Programming\OOP\C++\Version8(small error) – копія (2)\ConsoleApplication16\Trolleybus_Route.h(135,23): message : see previous definition of 'get_reversed'
+  Generating Code...
