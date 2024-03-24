@@ -1,0 +1,5 @@
+﻿  ConsoleApplication200.cpp
+D:\Programming\Holiday Work\DataStructures\0MyRealisation\SingleLinearLinkedList\ConsoleApplication200\ConsoleApplication200.cpp(92,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Holiday Work\DataStructures\0MyRealisation\SingleLinearLinkedList\ConsoleApplication200\ConsoleApplication200.cpp(135,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Holiday Work\DataStructures\0MyRealisation\SingleLinearLinkedList\ConsoleApplication200\ConsoleApplication200.cpp(207): warning C4715: 'SingleLinkedList::operator[]': not all control paths return a value
+  ConsoleApplication200.vcxproj -> D:\Programming\Holiday Work\DataStructures\0MyRealisation\SingleLinearLinkedList\x64\Debug\ConsoleApplication200.exe

@@ -1,0 +1,4 @@
+﻿  ConsoleApplication201.cpp
+C:\Users\Administrator\source\repos\ConsoleApplication201\ConsoleApplication201\ConsoleApplication201.cpp(94,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ConsoleApplication201\ConsoleApplication201\ConsoleApplication201.cpp(143,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication201.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication201\x64\Debug\ConsoleApplication201.exe
