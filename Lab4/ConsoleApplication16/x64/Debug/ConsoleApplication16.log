@@ -1,0 +1,13 @@
+﻿  ConsoleApplication16.cpp
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(11,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(362,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(368,30): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(372,48): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(516,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(570,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(700,41): warning C4244: 'initializing': conversion from '__int64' to 'long double', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(706,65): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\Programming\OOP\C++\Tests\ConsoleApplication16\ConsoleApplication16.cpp(743,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication16.vcxproj -> D:\Programming\OOP\C++\Tests\x64\Debug\ConsoleApplication16.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
