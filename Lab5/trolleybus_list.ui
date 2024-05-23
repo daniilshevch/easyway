@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>trolleybus_list</class>
+ <widget class="QDialog" name="trolleybus_list">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>811</width>
+    <height>434</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ГОЛОВНЕ МЕНЮ</string>
+  </property>
+  <widget class="QPushButton" name="button22">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>60</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 22</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button23">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>110</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 23</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button24">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>160</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 24</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button25">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>210</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 25</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button27">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>260</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 27</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button30">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>60</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 30</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button31">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>110</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 31</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button32">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>160</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 32</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button33">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>210</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 33</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button38">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>260</y>
+     <width>161</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ТРОЛЕЙБУС 38</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>190</y>
+     <width>63</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="image2">
+   <property name="geometry">
+    <rect>
+     <x>-40</x>
+     <y>-210</y>
+     <width>900</width>
+     <height>800</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>images/zx2rav---c1200x630x50px50p-up--b1292c38d0da322aafd72480bc14d14a.jpg</pixmap>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>340</y>
+     <width>171</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>КАРТА МАРШРУТІВ</string>
+   </property>
+  </widget>
+  <widget class="QGraphicsView" name="graphicsView">
+   <property name="geometry">
+    <rect>
+     <x>-5</x>
+     <y>361</y>
+     <width>271</width>
+     <height>81</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="tr_index">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>370</y>
+     <width>251</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>400</y>
+     <width>191</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ПЕРЕВІРИТИ ТРОЛЕЙБУС</string>
+   </property>
+  </widget>
+  <zorder>image2</zorder>
+  <zorder>button22</zorder>
+  <zorder>button23</zorder>
+  <zorder>button24</zorder>
+  <zorder>button25</zorder>
+  <zorder>button27</zorder>
+  <zorder>button30</zorder>
+  <zorder>button31</zorder>
+  <zorder>button32</zorder>
+  <zorder>button33</zorder>
+  <zorder>button38</zorder>
+  <zorder>label</zorder>
+  <zorder>pushButton</zorder>
+  <zorder>graphicsView</zorder>
+  <zorder>tr_index</zorder>
+  <zorder>pushButton_2</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
